@@ -18,12 +18,12 @@ The program shall
 1. Print your GitHub handle, then a colon ":", then your name as one string
 2. Print the first 10 (ten) powers of 2 between 2 and 1024, separated by one space, terminated by a new line.
 
-Example output:
+Example output:\
 
 BOwsnicki:BerndOwsnickiKlewe\
 2 4 8 16 32 64 128 256 512 1024
 
-##Submission
+## Submission
 
 Submit according to the tutorial
 
