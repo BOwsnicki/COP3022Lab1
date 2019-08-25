@@ -20,7 +20,7 @@ The program shall
 
 Example output:
 
-BOwsnicki:BerndOwsnickiKlewe
+BOwsnicki:BerndOwsnickiKlewe\
 2 4 8 16 32 64 128 256 512 1024
 
 #Submission
