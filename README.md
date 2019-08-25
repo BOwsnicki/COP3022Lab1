@@ -1,5 +1,4 @@
-# Lab 1
-### Built after the sample by Steven Bitner
+# COP 3022 Lab 1
 
 ## Purpose
 The purpose of this lab is to get hands-on experience with Github and create and submit a Hello World style Java application.
