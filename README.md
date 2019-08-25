@@ -12,7 +12,7 @@ If you haven't already created a directory on your PC for the work you'll do in 
 * Click "Accept this assignment". 
 If you're not logged into github already, you are presented with a login screen:
 
-![Login](https://drive.google.com/open?id=1C2T2VkPTUFqz63QQSNw0Cn7nDtDLYPAB)
+![Login](media/githublogin)
 
 This will create a new private repository in Github for you to submit your work.
 * Near the top right of your browser, you'll see a green "Clone or download" button.
