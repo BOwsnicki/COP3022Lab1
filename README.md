@@ -9,7 +9,7 @@ Here is a cheat sheet of git commands that will be helpful in working with the g
 If you haven't already created a directory on your PC for the work you'll do in this course, do so now.
 
 * Now, go to [Lab-1]()
-* Click "Accept this assignment". 
+* Click "Accept this assignment".
 If you're not logged into github already, you are presented with a login screen:
 
 ![Login](media/githublogin)
